@@ -1,2 +1,4 @@
 *.so
 *.csv
+.ipynb_checkpoints/
+*.zip
